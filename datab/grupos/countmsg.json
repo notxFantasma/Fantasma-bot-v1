@@ -811,6 +811,11 @@
         "id": "",
         "messages": 2,
         "cmd_messages": 0
+      },
+      {
+        "id": "5216691297479@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0
       }
     ]
   },
@@ -2494,7 +2499,7 @@
       },
       {
         "id": "5214939348948@s.whatsapp.net",
-        "messages": 1,
+        "messages": 2,
         "cmd_messages": 0
       },
       {
@@ -2514,7 +2519,7 @@
       },
       {
         "id": "573225056770@s.whatsapp.net",
-        "messages": 2,
+        "messages": 4,
         "cmd_messages": 0
       }
     ]
@@ -2766,6 +2771,11 @@
         "id": "595995000000@s.whatsapp.net",
         "messages": 1,
         "cmd_messages": 0
+      },
+      {
+        "id": "35796666108@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0
       }
     ]
   },
@@ -2930,6 +2940,11 @@
       {
         "id": "50487871089@s.whatsapp.net",
         "messages": 2,
+        "cmd_messages": 0
+      },
+      {
+        "id": "50761983429@s.whatsapp.net",
+        "messages": 1,
         "cmd_messages": 0
       }
     ]
