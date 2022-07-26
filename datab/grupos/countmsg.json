@@ -2856,6 +2856,11 @@
         "id": "584241943113@s.whatsapp.net",
         "messages": 2,
         "cmd_messages": 0
+      },
+      {
+        "id": "15064998178@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0
       }
     ]
   },
@@ -2986,6 +2991,16 @@
         "id": "",
         "messages": 1,
         "cmd_messages": 0
+      },
+      {
+        "id": "573225056770@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 0
+      },
+      {
+        "id": "12363174310@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0
       }
     ]
   },
@@ -3009,6 +3024,16 @@
     "numbers": [
       {
         "id": "573216977929@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0
+      }
+    ]
+  },
+  {
+    "groupId": "120363026925270488@g.us",
+    "numbers": [
+      {
+        "id": "5215534675540@s.whatsapp.net",
         "messages": 2,
         "cmd_messages": 0
       }
