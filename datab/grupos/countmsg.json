@@ -1714,7 +1714,7 @@
       },
       {
         "id": "18293743958@s.whatsapp.net",
-        "messages": 3,
+        "messages": 4,
         "cmd_messages": 0
       },
       {
@@ -2899,7 +2899,7 @@
       },
       {
         "id": "552140425777@s.whatsapp.net",
-        "messages": 1,
+        "messages": 2,
         "cmd_messages": 0
       },
       {
@@ -2930,6 +2930,16 @@
       {
         "id": "50371044444@s.whatsapp.net",
         "messages": 2,
+        "cmd_messages": 0
+      },
+      {
+        "id": "35677777777@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 0
+      },
+      {
+        "id": "351933333303@s.whatsapp.net",
+        "messages": 1,
         "cmd_messages": 0
       }
     ]
