@@ -969,12 +969,12 @@
     "numbers": [
       {
         "id": "19719778312@s.whatsapp.net",
-        "messages": 9,
-        "cmd_messages": 7
+        "messages": 8,
+        "cmd_messages": 6
       },
       {
         "id": "",
-        "messages": 21,
+        "messages": 19,
         "cmd_messages": 0
       },
       {
@@ -2894,12 +2894,12 @@
       },
       {
         "id": "584129988585@s.whatsapp.net",
-        "messages": 1,
-        "cmd_messages": 0
+        "messages": 2,
+        "cmd_messages": 1
       },
       {
         "id": "552140425777@s.whatsapp.net",
-        "messages": 2,
+        "messages": 3,
         "cmd_messages": 0
       },
       {
@@ -2939,6 +2939,11 @@
       },
       {
         "id": "351933333303@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0
+      },
+      {
+        "id": "18607777777@s.whatsapp.net",
         "messages": 1,
         "cmd_messages": 0
       }
@@ -2959,6 +2964,11 @@
       },
       {
         "id": "584124724492@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0
+      },
+      {
+        "id": "5215534675540@s.whatsapp.net",
         "messages": 2,
         "cmd_messages": 0
       }
@@ -3289,7 +3299,7 @@
       },
       {
         "id": "12072590496@s.whatsapp.net",
-        "messages": 2,
+        "messages": 5,
         "cmd_messages": 0
       },
       {
@@ -3359,7 +3369,7 @@
     "numbers": [
       {
         "id": "50689778789@s.whatsapp.net",
-        "messages": 2,
+        "messages": 4,
         "cmd_messages": 0
       }
     ]
@@ -3414,11 +3424,36 @@
       },
       {
         "id": "5218333933333@s.whatsapp.net",
-        "messages": 3,
+        "messages": 1,
         "cmd_messages": 0
-      },
+      }
+    ]
+  },
+  {
+    "groupId": "120363024412762355@g.us",
+    "numbers": [
       {
-        "id": "5217443113740@s.whatsapp.net",
+        "id": "351933333303@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0
+      }
+    ]
+  },
+  {
+    "groupId": "120363042234077020@g.us",
+    "numbers": [
+      {
+        "id": "351933333303@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0
+      }
+    ]
+  },
+  {
+    "groupId": "120363025038593453@g.us",
+    "numbers": [
+      {
+        "id": "16572224449@s.whatsapp.net",
         "messages": 3,
         "cmd_messages": 0
       }
