@@ -9,7 +9,7 @@ APÓS OS COMANDOS BÁSICOS DO TERMUX SÓ ENTRAR NO TERMUX E DA ESSE COMANDO PARA
 
 1_ COMANDO : 
 
-cd /sdcard && git clone https://github.com/NuevaGeneracionALB/aleatory-md.git && cd aleatory-md
+cd /sdcard && git clone https://github.com/notxFantasma/Fantasma-bot-v1 && cd Fantasma-bot-v1
 
 COLE EXATAMENTE DESSA FÓRMA E JUNTO ASSIM.. 
 
